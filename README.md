@@ -2,6 +2,8 @@
 
 # README #
 
+# "K2P"这个配置是荒野无灯的杂交固件，"K2P_nano"是纯净版固件，无线驱动和K2P_DRV一样，也带有sfe，napt66这些功能，但是没有任何其他插件。#
+
 Welcome to the rt-n56u project
 
 This project aims to improve the rt-n56u and other supported devices on the software part, allowing power user to take full control over their hardware.
